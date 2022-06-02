@@ -1,6 +1,7 @@
 # B3DMExtractor
 
-Extract the gltf/glb from a single B3DM file or an entire 3DTiles tileset
+This is a specialized tool for extracting the content of a B3DM file. 
+B3DM files are used by OGC 3DTiles to wrap gltf/glb files with a specific metadata structure. The tool will extract the gltf/glb content of the B3DM.
 
 This is a manual tool so you'll have to do the following steps:
 
