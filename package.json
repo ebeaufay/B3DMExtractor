@@ -1,0 +1,12 @@
+{
+  "name": "b3dmextractor",
+  "version": "1.0.0",
+  "description": "Extract gltf from b3dm",
+  "main": "src/app.js",
+  "author": "@JDUltra",
+  "license": "ISC",
+  "dependencies": {
+    "fdir": "^5.2.0",
+    "fs-extra": "^10.1.0"
+  }
+}
